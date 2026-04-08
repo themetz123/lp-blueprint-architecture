@@ -1,12 +1,12 @@
 # LP Blueprint — Technical Architecture Overview
 
-Production infrastructure powering an institutional investor relations platform. 121,500+ institutional subscribers. Three live applications. One engineer.
+Production infrastructure powering an institutional investor relations platform. 121,500+ institutional subscribers. 43 paying customers. Three live applications. One engineer.
 
 ---
 
 ## The Stack
 
-**Core:** Node.js · Vanilla JS · TypeScript · Next.js
+**Core:** Node.js · Vanilla JS · TypeScript
 **Cloud:** Google Cloud Platform · Cloud Run · BigQuery · Data Science / NLP
 **Data:** Automated CRON pipelines · Multi-source Regulatory Ingestion · Automated Verification
 **Infra:** Vercel · Cloudflare · Stripe Telemetry · Webhook Orchestration
@@ -31,7 +31,7 @@ Institutional-grade SaaS platform offering a highly curated matching engine for 
 
 Curated directory of high-net-worth and family office entities serving the private equity and venture capital markets.
 
-- Next.js application with secure authentication routing
+- Secure authentication routing
 - Complex dataset processing, normalization, and filtering
 - Designed to solve early-stage capital formation constraints for institutional managers
 
@@ -72,7 +72,7 @@ Interactive application for fund managers to workshop, iterate, and refine their
 
 ## Why This Exists
 
-I built an automated infrastructure that does the work of a 50-person data team.
+I built an automated infrastructure that does the work of a 65-person analyst team.
 
 Most companies in the institutional data space hire a 10-person engineering team and a massive sales org to do what this platform does automatically. LP Blueprint processes regulatory data, scores entities algorithmically, verifies contacts through automated pipelines, and distributes intelligence to 121,500+ users — running on infrastructure I deployed and maintain entirely solo.
 
@@ -80,4 +80,4 @@ The proprietary application code, algorithms, and data schemas are strictly priv
 
 ---
 
-**Contact:** [adam@lpblueprint.com](mailto:adam@lpblueprint.com) · [adammetz.com](https://adammetz.com) · [LinkedIn](https://linkedin.com/in/adammetz)
+**Contact:** [adam@lpblueprint.com](mailto:adam@lpblueprint.com) · [adammetz.com](https://adammetz.com) · [LinkedIn](https://linkedin.com/in/adammetz) · [Upwork](https://www.upwork.com/freelancers/adammetz)
