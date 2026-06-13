@@ -1,6 +1,6 @@
 # LP Blueprint — Technical Architecture Overview
 
-Production infrastructure powering an institutional investor relations platform. 121,500+ institutional subscribers. 43 paying customers. Three live applications. One engineer.
+Production infrastructure powering an institutional investor relations platform. 120,000+ institutional subscribers. 250+ paying customers. Three live applications. One engineer.
 
 ---
 
